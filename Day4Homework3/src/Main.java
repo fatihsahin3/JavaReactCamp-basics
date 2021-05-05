@@ -27,7 +27,7 @@ public class Main {
 		campaignManager.add(campaign1);
 		
 		Order order1 = new Order(1, customer1, game1);
-		OrderManager orderManager = new OrderManager();
+		OrderManager orderManager = new OrderManager(new CustomerCheckManager());
 		orderManager.add(order1);
 		
 		Order order2 = new Order(2, customer1, game2);
