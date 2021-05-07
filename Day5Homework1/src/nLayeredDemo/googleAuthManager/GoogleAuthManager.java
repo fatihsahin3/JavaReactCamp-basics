@@ -1,4 +1,4 @@
-package nLayeredDemo.GoogleAuthManager;
+package nLayeredDemo.googleAuthManager;
 
 import java.util.ArrayList;
 import java.util.List;

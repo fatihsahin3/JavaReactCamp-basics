@@ -1,9 +1,9 @@
 package nLayeredDemo.core.concretes;
 
-import nLayeredDemo.GoogleAuthManager.GoogleAuthManager;
-import nLayeredDemo.GoogleAuthManager.GoogleUser;
 import nLayeredDemo.core.abstracts.RegisterService;
 import nLayeredDemo.entities.concretes.User;
+import nLayeredDemo.googleAuthManager.GoogleAuthManager;
+import nLayeredDemo.googleAuthManager.GoogleUser;
 
 public class GoogleManagerAdapter implements RegisterService {
 	

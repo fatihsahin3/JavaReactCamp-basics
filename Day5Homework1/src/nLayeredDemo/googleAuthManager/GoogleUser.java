@@ -1,4 +1,4 @@
-package nLayeredDemo.GoogleAuthManager;
+package nLayeredDemo.googleAuthManager;
 
 public class GoogleUser {
 	
