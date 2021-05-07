@@ -39,8 +39,8 @@ public class Main {
             System.out.println("          1. User Register");
             System.out.println("          2. User Register With Google");
             System.out.println("          3. User Login");
-            System.out.println("          3. User Logout");
-            System.out.println("          4. Exit \n");
+            System.out.println("          4. User Logout");
+            System.out.println("          5. Exit \n");
             
             int key = in.nextInt();
             switch (key)
